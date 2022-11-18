@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395834213481",
+    "project_id": "kntag-9f382",
+    "storage_bucket": "kntag-9f382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395834213481:android:0c07a7ba6e1e7bb40e8ef8",
+        "android_client_info": {
+          "package_name": "com.example.the_kntag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395834213481-lght5k8a5ookf2u3pnjalrauvfckifc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI78WscCY9Tf97z0dylL8hcrIFCGwFxQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395834213481-lght5k8a5ookf2u3pnjalrauvfckifc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
